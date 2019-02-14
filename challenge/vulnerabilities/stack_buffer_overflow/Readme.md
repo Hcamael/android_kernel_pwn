@@ -2,3 +2,4 @@
 
 goldfish_3.10_zImage
 
+ranchu_3.10_zImage
