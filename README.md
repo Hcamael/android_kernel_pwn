@@ -4,9 +4,9 @@
 
 - images/ 测试成功的安卓内核
 
-- challenge/
-  - vulnerabilities/   源码
-  - exp/    提权代码
+- challenge/vulnerabilities/
+  -  module/ 驱动源码
+  - solution/    提权代码
 
 分析文章一般会发表在我Blog上: https://0x48.pw
 
